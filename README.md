@@ -14,10 +14,14 @@ O objetivo deste projeto é analisar os dados e em seguida responder as pergunta
 O produto final será um arquivo .csv agrupado com os campos necessários para a análise e um dashboard feito no PowerBI Desktop. 
 
 ## Ferramentas
-- Python 3.9; 
-- Jupyter Notebook; 
-- PowerBI Desktop;
-- Metodologia CRISP-DM.
+ <p>
+  <ul>
+    <li><a href="https://www.python.org/">Python 3.9</a></li>
+    <li><a href="https://jupyter.org/">Jupyter Notebook</a></li>
+    <li><a href="https://powerbi.microsoft.com/pt-br/">PowerBI Desktop</a></li>
+    <li>Metodologia CRISP-DM</li>
+  </ul>
+ </p>
 
 ## Procedimentos
 - Coletar os dados; 
